@@ -2,7 +2,7 @@
 
 One saves resources when one doesn't abbreviate words.
 
-What happens when you write "domain-specific language" instead of those many words:
+What happens when you write e.g. "domain-specific language" instead of DSL:
 
 a. You save your energy.
 
