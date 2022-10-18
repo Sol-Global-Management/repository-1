@@ -30,4 +30,4 @@ The users of Sol software are free to sort data as they please.
 
 6\. It limits responses to “articles” (to 1,250 characters).
 
-When you want somebody to serve you better, you can switch to [id](https://medium.com/sol-id).
+When you want somebody to serve you better, you can switch to [id](https://www.sol.enterprises/manage/data/program).
