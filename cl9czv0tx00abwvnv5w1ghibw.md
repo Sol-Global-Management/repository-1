@@ -1,4 +1,4 @@
-# good content for the long term
+# Good content for the long term
 
 My teams help e.g. content creators to make and use a resource management plan. Such a plan can cover everything in one’s life, in one’s commercial activities, or in one activity, e.g. creating content. We focus on creators who sell their content. We team up with them to provide content that you value.
 
