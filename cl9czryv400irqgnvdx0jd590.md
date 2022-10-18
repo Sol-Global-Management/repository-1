@@ -12,6 +12,6 @@ Google Plus and Facebook were spammed until Google and Meta charged people to us
 
 I recommend conversing in public when you communicate with a person for the first time and agreeing with them on how you are going to manage the next messages in your dialogue.
 
-Any person can communicate with me privately at any time using e.g. [the better Twitter](https://juliandumitrascu.medium.com/about). After you add a message to a conversation, you can [unlist](https://help.medium.com/hc/en-us/articles/215552778-Unlisted-publishing) it.
+Any person can communicate with me privately at any time using e.g. [LinkedIn](https://www.linkedin.com/in/juliandumitrascu).
 
-We can build subthreads about which other people don’t (have to) know. We can express ourselves freely, without worrying about how many characters our messages include. We can embed other content where we please.
+We can express ourselves without worrying about how many characters our messages include. We can embed other content where we please.
