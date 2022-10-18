@@ -26,14 +26,12 @@ Sand is [not recommended](https://medium.com/sol-resource-management/land-manage
 
 Cement causes damages. It seems that between 1928 and 2013 we put more than 38 Gt of CO2 into the air by using cement.
 
-[**Buildings can become a global CO2 sink if made out of wood instead of cement and steel**  
-*A material revolution replacing cement and steel in urban construction by wood can have double benefits for climate…*www.sciencedaily.com](https://www.sciencedaily.com/releases/2020/01/200127134828.htm "https://www.sciencedaily.com/releases/2020/01/200127134828.htm")[](https://www.sciencedaily.com/releases/2020/01/200127134828.htm)
+[**Buildings can become a global CO2 sink if made out of wood instead of cement and steel**](https://www.sciencedaily.com/releases/2020/01/200127134828.htm)
 
 [**Wood and Climate**  
-*Cars, aeroplanes and people - all of them produce CO 2. Austria's transport sector is responsible for the third highest…*www.wooddays.eu](https://www.wooddays.eu/en/woodclimate/ "https://www.wooddays.eu/en/woodclimate/")[](https://www.wooddays.eu/en/woodclimate/)
+*Cars, aeroplanes, and people: all of them produce CO2.](https://www.wooddays.eu/en/woodclimate/ "https://www.wooddays.eu/en/woodclimate")
 
-[**Specific carbon dioxide emissions of various fuels**  
-*Specific Carbon Dioxide Emissions of Various Fuels Fuel is not equal to fuel - at least if we consider carbon dioxide…*www.volker-quaschning.de](https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php "https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php")[](https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php)
+[**Specific carbon dioxide emissions of various fuels**](https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php)
 
 2.2 Wooden buildings can have up to [6 storeys](http://www.woodworks.org/experttip/what-is-the-tallest-wood-structure-allowed-per-current-building-codes).
 
@@ -41,11 +39,7 @@ Cement causes damages. It seems that between 1928 and 2013 we put more than 38 G
 
 2.4 We can we adapt a house to summertime and to wintertime.
 
-2.5 We can make the rooms tall, so that there is room for love,
-
-<iframe src="https://giphy.com/embed/f2fX7GtXh1nbi/twitter/iframe" width="435" height="282" frameborder="0" scrolling="no"></iframe>
-
-and dancing.
+2.5 We can make the rooms tall, so that there is room for love, [jumping](https://giphy.com/embed/f2fX7GtXh1nbi), and dancing.
 
 2.6 We position windows depending on how you want to use sunlight.
 
@@ -61,8 +55,7 @@ What benefits do you want from a modern house?
 
 We can offer higher benefits than one gets when one buys a house (with one’s own money or with borrowed money) or when one rents a house.
 
-[**housing**  
-*Sheet1 benefit,buy,mortgage,rent,subscribe relationship with the neighbors,4,3,1,2 relationship with the…*docs.google.com](https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing")[](https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing)
+[**housing**](https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing)
 
 In all 4 cases one must pay tax and insurance.
 
