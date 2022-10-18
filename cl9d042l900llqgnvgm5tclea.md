@@ -1,8 +1,6 @@
-# No. How willing were you to discuss with me what you are trying to achieve?
+# How willing were you to discuss with me what you are trying to achieve?
 
-No. How willing were you to discuss with me what you are trying to achieve?
-
-[This conversation](https://medium.com/julian-dumitrascu/building-a-relationship-6d7bf1e3c502) would help us build a dialogue.
+[This conversation](https://www.linkedin.com/pulse/building-relationship-julian-dumitrascu) would help us build a dialogue.
 
 I represent goal-fulfilling teams. We are willing to do whatever it takes for someone to achieve their goals.
 
