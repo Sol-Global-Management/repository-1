@@ -27,7 +27,7 @@ d. a healthy nature
 e. social activities, e.g. entertainment and education  
 f. friends and family
 
-[*My teams can help*](https://juliandumitrascu.medium.com/to-increase-your-bcr-discuss-pmm-with-sgm-c8bb081070e7) *with b to e, housing, energy, telecommunication, and transportation.*
+[*My teams can help with many things.*](https://juliandumitrascu.medium.com/to-increase-your-bcr-discuss-pmm-with-sgm-c8bb081070e7)
 
 3\. When getting that benefit is more than a common interest, people **team up** to work towards that benefit.
 
