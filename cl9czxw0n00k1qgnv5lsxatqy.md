@@ -1,7 +1,5 @@
 # Hello, Michael!
 
-Hello, Michael!
-
 1\. Google displayed this message instead of your content: "The connection to midmarketplace.com is not secure. You are seeing this warning because this site does not support HTTPS."
 
 We can agree on how to change this.
