@@ -26,10 +26,9 @@ Sand is [not recommended](https://medium.com/sol-resource-management/land-manage
 
 Cement causes damages. It seems that between 1928 and 2013 we put more than 38 Gt of CO2 into the air by using cement.
 
-[**Buildings can become a global CO2 sink if made out of wood instead of cement and steel**](https://www.sciencedaily.com/releases/2020/01/200127134828.htm)
+[**Buildings can become a CO2 sink if made out of wood instead of cement and steel.**](https://www.sciencedaily.com/releases/2020/01/200127134828.htm)
 
-[**Wood and Climate**  
-*Cars, aeroplanes, and people: all of them produce CO2.](https://www.wooddays.eu/en/woodclimate/ "https://www.wooddays.eu/en/woodclimate")
+[**Vehicles produce CO2.**](https://www.wooddays.eu/en/woodclimate")
 
 [**Specific carbon dioxide emissions of various fuels**](https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php)
 
@@ -53,9 +52,7 @@ What benefits do you want from a modern house?
 
 **3\. Subscription**
 
-We can offer higher benefits than one gets when one buys a house (with one’s own money or with borrowed money) or when one rents a house.
-
-[**housing**](https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing)
+We can offer higher [benefits](https://docs.google.com/spreadsheets/d/1JUIaOPEIADKwmT7QYh0perbuKQctHtGNx1Fp0d-vfls/edit?usp=sharing) than one gets when one buys a house (with one’s own money or with borrowed money) or when one rents a house.
 
 In all 4 cases one must pay tax and insurance.
 
