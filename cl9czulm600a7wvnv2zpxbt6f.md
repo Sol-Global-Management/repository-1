@@ -1,4 +1,4 @@
-# Discussing benefits
+# How would you find being pulled into a sales funnel?
 
 1\. I don’t like the image of cramming people into pipelines or other objects. How would you like being treated like a bag out of which one could squeeze money?
 
