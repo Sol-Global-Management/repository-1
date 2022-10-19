@@ -16,4 +16,4 @@ a. wie öffentlich oder privat wir ein bestimmtes Thema besprechen.
 
 b. wann wir Nachrichten füreinander hinterlassen und wann wir Gespräche terminieren.
 
-Welche Kommunikationsprogramme benutzest Du gerne? Was gefällt Dir bei diesen? Wir finden z.B. LinkedIn und Podio besonders nützlich.
+Welche Kommunikationsprogramme benutzest Du gerne? Was gefällt Dir bei diesen? Wir finden z.B. Medium und Podio besonders nützlich.
