@@ -1,4 +1,4 @@
-# 1. You've headed the communications team since December 2017.
+# Message to the chief communicator of Medium.com
 
 1\. You've headed the communications team since December 2017.
 
@@ -13,3 +13,7 @@ When are we going to discuss improving your communication?
 2\. How much do you enjoy using Medium?
 
 3\. Which is your favourite software for public communication?
+
+She has not replied.
+
+I'm copying my messages here.
