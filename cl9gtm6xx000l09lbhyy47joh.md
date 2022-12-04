@@ -1,8 +1,8 @@
 # We create Internet nations.
 
-Such an idea has been around since it’s fashionable to create communities.
+Such an idea has been around since it’s been fashionable to create communities.
 
-I start from language communities. Let’s discuss what we, English speakers, want! (We seem to be [1.3 billion](https://www.wikiwand.com/en/List_of_languages_by_total_number_of_speakers) people because English seems the best sold language.)
+I start from language communities. Let’s discuss what we, English speakers, want! (We seem to be [1.3 billion](https://www.wikiwand.com/en/List_of_languages_by_total_number_of_speakers) people because English seems the best-sold language.)
 
 Up to 100% of us can associate and manage our lives and resources as we please.
 
@@ -18,7 +18,7 @@ While we can discuss anything, I’ll mention some topics that can matter.
 
 **Communication**
 
-We can agree on what software to use in order to communicate over the Internet. Medium is a good means, but doesn’t meet all requirements.
+We agree on what software to use to communicate over the Internet.
 
 **Air**
 
@@ -26,13 +26,13 @@ I invite you to [this conversation](https://medium.com/sol-resource-management/a
 
 **Water**
 
-We can discuss its availability and its quality starting from [this conversation](https://medium.com/sol-resource-management/water-management-7c1fa6569a50).
+We can discuss its availability and its quality starting from [this conversation](https://www.linkedin.com/pulse/sol-water-management-julian-dumitrascu).
 
-Most [oxygen](https://ocean.si.edu/ocean-life/plankton/every-breath-you-take-thank-ocean) comes from the ocean. In order to live, we need to take great care of air and water.
+Most [oxygen](https://ocean.si.edu/ocean-life/plankton/every-breath-you-take-thank-ocean) comes from the ocean. To live, we need to take great care of air and water.
 
 **Land**
 
-We can discuss its quality starting from [this conversation](https://medium.com/sol-resource-management/land-management-28effc65cdd1).
+We can discuss its quality starting from [this conversation](https://www.linkedin.com/pulse/sol-land-management-julian-dumitrascu).
 
 We can agree on how we interact with ecosystems.
 
@@ -40,8 +40,7 @@ We seem to use 51 million km2 of land for agriculture: 40 million km2 for livest
 
 82% of our calories come directly from plants. It seems fairly simple to live better by preferring plants over animals on our plates.
 
-[**Global land use since 10,000 BC**  
-](https://ourworldindata.org/grapher/global-land-use-since-10000bc?tab=table)
+[**Global land use since 10,000 BC**](https://ourworldindata.org/grapher/global-land-use-since-10000bc?tab=table)
 
 We could agree to own anything together, e.g. land or parts of the biosphere. Anyway, we can discuss ownership. It [seems](https://www.wikiwand.com/en/Property_rights_%28economics%29) to be the group of the following rights:
 
@@ -51,11 +50,11 @@ This seems the most important right.
 
 We can allow every human to use any land. We can create a database that shows the most beneficial uses of every type and lot of land.
 
-In the English-speaking nation we can manage rights to land as we please. We can manage land in various groups of users.
+In the English-speaking nation, we can manage rights to land as we please. We can manage land in various groups of users.
 
 b. the right to earn income from the good
 
-We pay one another to ship e.g. ore or plants off it. We can agree on schedules according to which to move resources across the Earth, so that we benefit from them over certain periods of time.
+We pay one another to ship e.g. ore or plants off it. We can agree on schedules according to which to move resources across the Earth, so that we benefit from them over certain periods.
 
 c. the right to transfer the good to others
 
@@ -75,7 +74,7 @@ f. the right to destroy the good
 
 It doesn’t seem useful to destroy goods. Let’s not destroy land!
 
-We can agree on what to do with the components of buildings and machines when we stop using these buildings and machines. People can ask Sol Resource Management to take them off their land. In our nation, where should one take materials that have become more difficult to use? Ultimately, they are always in nature and to a great extent they go back into the ground. It takes them very many years to become natural resources again. We can agree on how and where to act in order to support their natural transformation. This is work done for people whom we won’t know: our descendants. The more people act together, the better they live. The more generations interact, the better they live.
+We can agree on what to do with the components of buildings and machines when we stop using these buildings and machines. People can ask Sol Resource Management to take them off their land. In our nation, where should one take materials that have become more difficult to use? Ultimately, they are always in nature and they go back into the ground to a great extent. It takes them very many years to become natural resources again. We can agree on how and where to act in order to support their natural transformation. This is work done for people whom we won’t know: our descendants. The more people act together, the better they live. The more generations interact, the better they live.
 
 It seems good to focus on the rights to use resources, starting with land.
 
@@ -87,11 +86,11 @@ We can agree on how to store food. It’s less costly to store plants than anima
 
 **Money**
 
-The members of the English-speaking Internet nation can decide on how they interact as a group and as subgroups. They can decide e.g. on how to manage the infrastructures for energy, transportation, and telecommunication. They decide on who does what works on these networks and how they should be repaid for their services. They can use a financial service provider who lets them transfer e.g. money from 10,000+ households during a certain month for services provided by these specialised teams during the previous month(s). They’d use a data management program that lets them negotiate and conclude agreements for such works.
+The members of the English-speaking Internet nation can decide on how they interact as a group and as subgroups. They can decide e.g. on how to manage the infrastructures for energy, transportation, and telecommunication. They decide who does what works on these networks and how they should be repaid for their services. They can use a financial service provider who lets them transfer e.g. money from 10,000+ households during a certain month for services provided by these specialised teams during the previous month(s). They’d use a data management program that lets them negotiate and conclude agreements for such works.
 
 We must make sure that we, the English-speaking Internet nation, have the water, food, energy, data management, financial services, transportation, healthcare, and housing that we want. Which other services are basic, i.e. it were difficult to live without them?
 
-It seems useful for communities to cooperate on how they manage water, e.g. watersheds and wetlands. While everybody needs water and can understand water management, some people will have specialist knowledge of water (management), so few people will earn (some of) their living by helping the others to have the water they need. I think that every citizen should have the right to use some water, so that they stay alive and healthy, even when they have no capital. We should help one another to have a capital. In order to make sure that everyone has e.g. water, we can have each citizen pay a certain percentage from their current financial capital for water. We can keep calculating how much it costs us as a nation to use the necessary water and see what percentage of our financial capital the money spent on water management represents. If it’s 1%, each of us has to pay 1% to water managers according to rules that adapt this amount e.g. to regions and the timing of certain works.
+It seems useful for communities to cooperate on how they manage water, e.g. watersheds and wetlands. While everybody needs water and can understand water management, some people will have specialist knowledge of water (management), so few people will earn (some of) their living by helping the others to have the water they need. I think that every citizen should have the right to use some water, so that they stay alive and healthy, even when they have no capital. We should help one another to have a capital. To make sure that everyone has e.g. water, we can have each citizen pay a certain percentage of their current financial capital for water. We can keep calculating how much it costs us as a nation to use the necessary water and see what percentage of our financial capital the money spent on water management represents. If it’s 1%, each of us has to pay 1% to water managers according to rules that adapt this amount e.g. to regions and the timing of certain works.
 
 **Identification**
 
@@ -125,9 +124,9 @@ As we agree on how this nation benefits you, we’ll agree on what we, any and a
 
 *Belgium, Finland, and Switzerland* [*seem*](https://www.wikiwand.com/en/List_of_countries_by_tax_rates) *to tax people the most. We can live at least as well as people do in Europe, North America, and China, while collecting taxes lower than 45% of one’s income.*
 
-Some traditional governments have found too many reasons to collect money for public services. When an individual pays for a service, they must give some money to their government, too. At the same time, the service provider must give to their government a part of their fee. When they divide their revenue among themselves, each team member must give some money to their government again. I suggest that only individuals should pay a percentage of their financial capital for public services provided by the employees of the English-speaking nations for services that they provide every month. Example: If we pay specialised teams to manage the transportation infrastructure, we can pay monthly, but we pay directly to them, so no taxes are collected. We pay the nation management team for their services. They don’t collect taxes. In the same way, we can pay educators directly, even if we pay them every month e.g. for 4 years; we don’t pay taxes for education all our lives. We can agree on the percentage from all the money that one ever has one would pay to the management team after we agree on what benefits we want by organising ourselves as this language-based nation and by having few of us working continuously to help us get organised.
+Some traditional governments have found too many reasons to collect money for public services. When an individual pays for a service, they must give some money to their government, too. At the same time, the service provider must give their government a part of their fee. When they divide their revenue among themselves, each team member must give some money to their government again. I suggest that only individuals should pay a percentage of their financial capital for public services provided by the employees of the English-speaking nations for services that they provide every month. Example: If we pay specialised teams to manage the transportation infrastructure, we can pay monthly, but we pay directly to them, so no taxes are collected. We pay the nation management team for their services. They don’t collect taxes. In the same way, we can pay educators directly, even if we pay them every month e.g. for 4 years; we don’t pay taxes for education all our lives. We can agree on what percentage of all the money that one ever has one would pay to the management team after we agree on what benefits we want by organising ourselves as this language-based nation and by having few of us working continuously to help us get organised.
 
-We can reduce costs related to licenses. We can let people provide any services they like providing. We can see to it that they learn their trade timely. When a service is not in demand, they might change their trade to the one they can actually master and excel at. We can help our fellow English-speakers join the right teams and build teams.
+We can reduce costs related to licenses. We can let people provide any services they like providing. We can see to it that they learn their trade timely. When a service is not in demand, they might change their trade to the one they can actually master and excel at. We can help our fellow English speakers join the right teams and build teams.
 
 You can spend less on accounting services because you pay more simply for fewer public services.
 
